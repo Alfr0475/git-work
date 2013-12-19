@@ -1,1 +1,2 @@
 ‚Ù‚°‚ç‚Á‚¿‚å
+test_function
